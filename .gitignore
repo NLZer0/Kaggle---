@@ -1,2 +1,4 @@
 /data
 Quests*
+/.ipynb_checkpoints
+/__pycache__
